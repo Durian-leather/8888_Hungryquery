@@ -1,0 +1,10 @@
+api 与后端交互模式文件夹
+common 通用资源文件夹 如fonts/img/stylus 
+components 非路由组件 文件夹 
+filters 自定义过滤器 文件夹 
+mock 模拟数据接口文件夹 
+pages 路由组件文件夹
+router 路由文件夹
+store vuex相关模块文件夹
+    App.vue 应用组件 
+    main.js 入口js 文件 
